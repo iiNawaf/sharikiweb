@@ -1,0 +1,48 @@
+.PageBody{
+    padding:15px;
+}
+
+.PostCard{
+    /* height: 300px; */
+    width: 150px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.PostCardImage{
+    height: auto;
+    margin: auto;
+    background-color: #35b2a2;
+    text-align: center;
+    padding: 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.PostCardDetails{
+    text-align: center;
+}
+
+.PostTitle{
+    color:#797979;
+    font-weight: bold;
+}
+
+.PostLocation{
+    color: #797979;
+}
+
+.PostDesc{
+    color: #797979;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.PostJob{
+    color: #35b2a2;
+}
+
+.PostTime{
+    color: #797979;
+}

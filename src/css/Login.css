@@ -1,0 +1,20 @@
+.LoginBox{
+    background-color: #ffffff;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.FormBox{
+    padding-top: 150px
+}
+
+.InputStyle{
+    border-radius: 10px;
+    border: 1px solid #AFAFAF;
+    height: 45px;
+    width: 250px;
+    margin-bottom: 10px;
+}
